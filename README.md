@@ -1,7 +1,7 @@
 # Module-3-Random-Password-Generator
 
 ##URL for deployed page
-[https://alexander1262.github.io/Module-3-Random-Password-Generator/](https://alexander1262.github.io/Module-3-Random-Password-Generate/)
+https://alexander1262.github.io/Module-3-Password-Generator-Resubmit/
 
 ##Description
 
